@@ -1,0 +1,94 @@
+{
+  "name": "open-telemetry",
+  "fullName": "open-telemetry",
+  "slug": "open-telemetry",
+  "owner": {
+    "login": "open-telemetry",
+    "type": "Organization"
+  },
+  "title": "OpenTelemetry",
+  "supportUrl": null,
+  "isParentProject": true,
+  "githubUrl": "https://github.com/open-telemetry",
+  "permalink": "https://opensource.newrelic.com/projects/open-telemetry",
+  "iconUrl": "../images/open-telemetry-icon.jpg",
+  "shortDescription": "OpenTelemetry makes robust, portable telemetry a built-in feature of cloud-native software.",
+  "description": "OpenTelemetry makes robust, portable telemetry a built-in feature of cloud-native software.",
+  "ossCategory": null,
+  "projectTags": ["opentelemetry"],
+  "acceptsContributions": false,
+  "website": {
+    "title": "Open Telemetry",
+    "url": "https://opentelemetry.io"
+  },
+  "version": "0.1.0",
+  "projectType": "external",
+  "subProjects": [
+    "open-telemetry-opentelemetry-specification",
+    "open-telemetry-opentelemetry-java",
+    "open-telemetry-opentelemetry-go",
+    "open-telemetry-opentelemetry-dotnet",
+    "open-telemetry-opentelemetry-cpp",
+    "open-telemetry-opentelemetry-auto-instr-java",
+    "open-telemetry-opentelemetry-collector",
+    "open-telemetry-opentelemetry-ruby",
+    "open-telemetry-opentelemetry-erlang"
+  ],
+  "relatedProjects": ["newrelic-newrelic-java-agent-ansible-role"],
+  "team": [
+    {
+      "name": "Alan West",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3676547?s=460&u=e51a590905c98e54c0ce86cb024f14f0836d0792&v=4",
+      "role": ".NET maintainer",
+      "githubUrl": "https://github.com/alanwest"
+    },
+    {
+      "name": "Chris Ventura",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/45495992?s=64&v=4",
+      "role": "Java Maintainer, Metrics Approver",
+      "githubUrl": "https://github.com/nrcventura"
+    },
+    {
+      "name": "Erik Lucus",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/4761745?s=460&v=4",
+      "role": ".NET",
+      "githubUrl": "https://github.com/elucus"
+    },
+    {
+      "name": "Jack Berg",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/34418638?s=64&v=4",
+      "role": "Java Maintainer, Metrics Approver",
+      "githubUrl": "https://github.com/jack-berg"
+    },
+    {
+      "name": "Svetlana Brennan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/50715937?s=64&v=4",
+      "role": "JavaScript",
+      "githubUrl": "https://github.com/svetlanabrennan"
+    },
+    {
+      "name": "Martin Kuba",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4933147?s=64&v=4",
+      "role": "Client Instrumentation",
+      "githubUrl": "https://github.com/martinkuba"
+    },
+    {
+      "name": "Tyler Helmuth",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12352919?s=64&v=4",
+      "role": "Collector, Python",
+      "githubUrl": "https://github.com/TylerHelmuth"
+    },
+    {
+      "name": "Reese Lee",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/48657837?s=64&v=4",
+      "role": "OpenTelemetry",
+      "githubUrl": "https://github.com/reese-lee"
+    },
+    {
+      "name": "Sharr Creeden",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/36242226?s=64&v=4",
+      "role": "OpenTelemetry",
+      "githubUrl": "https://github.com/sharrmander"
+    }
+  ]
+}
